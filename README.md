@@ -16,8 +16,7 @@ while works:
   x = input('enter first x value: ')
   y = input('enter first y value: ')
   X = input('enter second x value: ')
-  Y = input('enter second y value: ') 
-  #users input
+  Y = input('enter second y value: ') #users input
 
   try:
     float(x) and float(X) and float(Y) and float(y) # only allows numbers
